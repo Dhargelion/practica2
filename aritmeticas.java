@@ -8,10 +8,10 @@ public int multiplicacion (int a, int b){
 	suma(1, 2);
 }
 
-public float suma(a, b){
+public int suma(int a, int b){
 	return a+b;
 }
-public division(a,b){
+public int division(int a,int b){
 	return a/b;
 }
 
