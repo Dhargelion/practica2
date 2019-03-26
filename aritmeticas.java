@@ -11,3 +11,6 @@ public int multiplicacion (int a, int b){
 public float suma(a, b){
 	return a+b;
 }
+public division(a,b){
+	return a/b;
+}
