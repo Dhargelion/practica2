@@ -14,3 +14,8 @@ public float suma(a, b){
 public division(a,b){
 	return a/b;
 }
+
+//metodo gregado por Molina Chacon Piter Jesus
+public int resta(int a, int b){
+	return a-b;
+}
